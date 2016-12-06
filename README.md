@@ -1,4 +1,4 @@
-## Timongo Creatures
+# Timongo Creatures
 
 ![](https://img.shields.io/badge/timongo-official-brightgreen.svg)
 
