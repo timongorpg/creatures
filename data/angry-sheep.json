@@ -1,0 +1,11 @@
+{
+    "name": "Angry Sheep",
+    "image": "sheep.gif",
+    "level": 5,
+    "health": 33,
+    "attack": 8,
+    "armor": 1,
+    "magic_resistance": 1,
+    "experience": 47,
+    "gold": 5
+}

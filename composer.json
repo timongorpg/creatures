@@ -1,0 +1,18 @@
+{
+    "name": "timongorpg/creatures",
+    "description": "Creatures package for Timongo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hudson Pereira",
+            "email": "hudson.byte@gmail.com"
+        }
+    ],
+    "require": {
+        "league/flysystem": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {"Timongo\\Creatures\\": "src/"}
+    }
+}

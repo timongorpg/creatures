@@ -1,0 +1,11 @@
+{
+    "name": "Snake",
+    "image": "cobra.gif",
+    "level": 2,
+    "health": 13,
+    "attack": 3,
+    "armor": 1,
+    "magic_resistance": 0,
+    "experience": 32,
+    "gold": 3
+}

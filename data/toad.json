@@ -1,0 +1,11 @@
+{
+    "name": "Toad",
+    "image": "toad.gif",
+    "level": 3,
+    "health": 20,
+    "attack": 5,
+    "armor": 2,
+    "magic_resistance": 1,
+    "experience": 40,
+    "gold": 4
+}
