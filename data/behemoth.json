@@ -1,0 +1,11 @@
+{
+    "name": "Behemoth",
+    "image": "behemoth.gif",
+    "level": 23,
+    "health": 120,
+    "attack": 46,
+    "armor": 23,
+    "magic_resistance": 17,
+    "experience": 198,
+    "gold": 22
+}

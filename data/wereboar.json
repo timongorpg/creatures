@@ -1,0 +1,11 @@
+{
+    "name": "Wereboar",
+    "image": "Wereboar.gif",
+    "level": 22,
+    "health": 115,
+    "attack": 44,
+    "armor": 22,
+    "magic_resistance": 17,
+    "experience": 180,
+    "gold": 22
+}

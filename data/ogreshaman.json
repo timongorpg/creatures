@@ -1,0 +1,11 @@
+{
+    "name": "Ogre Shaman",
+    "image": "ogreshaman.gif",
+    "level": 16,
+    "health": 85,
+    "attack": 32,
+    "armor": 16,
+    "magic_resistance": 9,
+    "experience": 101,
+    "gold": 19
+}

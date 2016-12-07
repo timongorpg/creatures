@@ -1,0 +1,11 @@
+{
+    "name": "Orc Berserker",
+    "image": "orcberserker.gif",
+    "level": 13,
+    "health": 70,
+    "attack": 26,
+    "armor": 13,
+    "magic_resistance": 7,
+    "experience": 76,
+    "gold": 17
+}

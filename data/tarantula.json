@@ -1,0 +1,11 @@
+{
+    "name": "Tarantula",
+    "image": "Tarantula.gif",
+    "level": 17,
+    "health": 90,
+    "attack": 34,
+    "armor": 17,
+    "magic_resistance": 10,
+    "experience": 111,
+    "gold": 19
+}
