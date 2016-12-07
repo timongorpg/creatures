@@ -1,11 +1,11 @@
 {
     "name": "Snake",
     "image": "snake.gif",
-    "level": 2,
-    "health": 15,
-    "attack": 4,
-    "armor": 2,
-    "magic_resistance": 0,
-    "experience": 28,
-    "gold": 4
+    "level": 3,
+    "health": 20,
+    "attack": 6,
+    "armor": 3,
+    "magic_resistance": 1,
+    "experience": 31,
+    "gold": 6
 }
