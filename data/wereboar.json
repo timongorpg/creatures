@@ -1,6 +1,6 @@
 {
     "name": "Wereboar",
-    "image": "Wereboar.gif",
+    "image": "wereboar.gif",
     "level": 22,
     "health": 115,
     "attack": 44,
