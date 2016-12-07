@@ -1,0 +1,11 @@
+{
+    "name": "Goblin",
+    "image": "goblin.gif",
+    "level": 9,
+    "health": 50,
+    "attack": 18,
+    "armor": 9,
+    "magic_resistance": 5,
+    "experience": 51,
+    "gold": 14
+}
