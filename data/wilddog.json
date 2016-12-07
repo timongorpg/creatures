@@ -1,0 +1,11 @@
+{
+    "name": "Wild Dog",
+    "image": "dog.gif",
+    "level": 4,
+    "health": 25,
+    "attack": 8,
+    "armor": 4,
+    "magic_resistance": 1,
+    "experience": 35,
+    "gold": 8
+}
