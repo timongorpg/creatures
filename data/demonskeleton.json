@@ -1,0 +1,11 @@
+{
+    "name": "Demon Skeleton",
+    "image": "demonskeleton.gif",
+    "level": 19,
+    "health": 100,
+    "attack": 38,
+    "armor": 19,
+    "magic_resistance": 15,
+    "experience": 135,
+    "gold": 20
+}

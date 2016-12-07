@@ -1,0 +1,11 @@
+{
+    "name": "Ogre",
+    "image": "ogre.gif",
+    "level": 14,
+    "health": 75,
+    "attack": 28,
+    "armor": 14,
+    "magic_resistance": 8,
+    "experience": 84,
+    "gold": 17
+}

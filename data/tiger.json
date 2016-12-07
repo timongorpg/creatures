@@ -1,0 +1,11 @@
+{
+    "name": "Tiger",
+    "image": "kitty.gif",
+    "level": 6,
+    "health": 35,
+    "attack": 12,
+    "armor": 6,
+    "magic_resistance": 2,
+    "experience": 42,
+    "gold": 9
+}

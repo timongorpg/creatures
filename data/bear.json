@@ -1,0 +1,11 @@
+{
+    "name": "Bear",
+    "image": "bear.gif",
+    "level": 7,
+    "health": 40,
+    "attack": 14,
+    "armor": 7,
+    "magic_resistance": 3,
+    "experience": 46,
+    "gold": 9
+}

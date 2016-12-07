@@ -1,0 +1,11 @@
+{
+    "name": "Wild Orc Dwarf",
+    "image": "dworc.gif",
+    "level": 8,
+    "health": 45,
+    "attack": 16,
+    "armor": 8,
+    "magic_resistance": 8,
+    "experience": 51,
+    "gold": 12
+}
