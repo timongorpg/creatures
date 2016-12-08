@@ -2,7 +2,7 @@
     "name": "Skeleton",
     "image": "skeleton.gif",
     "level": 12,
-    "health": 65,
+    "health": 100,
     "attack": 24,
     "armor": 12,
     "magic_resistance": 6,
