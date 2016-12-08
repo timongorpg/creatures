@@ -2,7 +2,7 @@
     "name": "Tarantula",
     "image": "tarantula.gif",
     "level": 17,
-    "health": 90,
+    "health": 110,
     "attack": 34,
     "armor": 17,
     "magic_resistance": 10,

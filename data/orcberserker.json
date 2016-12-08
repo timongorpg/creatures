@@ -2,7 +2,7 @@
     "name": "Orc Berserker",
     "image": "orcberserker.gif",
     "level": 13,
-    "health": 70,
+    "health": 120,
     "attack": 26,
     "armor": 13,
     "magic_resistance": 7,

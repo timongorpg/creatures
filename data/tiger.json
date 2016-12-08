@@ -2,7 +2,7 @@
     "name": "Tiger",
     "image": "kitty.gif",
     "level": 6,
-    "health": 35,
+    "health": 70,
     "attack": 12,
     "armor": 6,
     "magic_resistance": 2,

@@ -2,7 +2,7 @@
     "name": "Cyclops",
     "image": "cyclops.gif",
     "level": 20,
-    "health": 105,
+    "health": 210,
     "attack": 40,
     "armor": 20,
     "magic_resistance": 15,

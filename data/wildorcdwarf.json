@@ -2,7 +2,7 @@
     "name": "Wild Orc Dwarf",
     "image": "dworc.gif",
     "level": 8,
-    "health": 45,
+    "health": 90,
     "attack": 16,
     "armor": 8,
     "magic_resistance": 8,

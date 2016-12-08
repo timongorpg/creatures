@@ -2,7 +2,7 @@
     "name": "Barbarian",
     "image": "barbarianbw.gif",
     "level": 18,
-    "health": 95,
+    "health": 190,
     "attack": 36,
     "armor": 18,
     "magic_resistance": 11,

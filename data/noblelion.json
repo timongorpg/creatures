@@ -2,7 +2,7 @@
     "name": "Lion",
     "image": "noblelion.gif",
     "level": 11,
-    "health": 60,
+    "health": 120,
     "attack": 22,
     "armor": 11,
     "magic_resistance": 6,

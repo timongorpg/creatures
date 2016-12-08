@@ -2,7 +2,7 @@
     "name": "Bear",
     "image": "bear.gif",
     "level": 7,
-    "health": 40,
+    "health": 80,
     "attack": 14,
     "armor": 7,
     "magic_resistance": 3,

@@ -2,7 +2,7 @@
     "name": "Lord Minotaur",
     "image": "lordminotaur.gif",
     "level": 21,
-    "health": 110,
+    "health": 220,
     "attack": 42,
     "armor": 21,
     "magic_resistance": 16,
