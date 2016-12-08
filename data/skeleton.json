@@ -1,0 +1,11 @@
+{
+    "name": "Skeleton",
+    "image": "skeleton.gif",
+    "level": 12,
+    "health": 65,
+    "attack": 24,
+    "armor": 12,
+    "magic_resistance": 6,
+    "experience": 69,
+    "gold": 17
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Lion",
+    "image": "noblelion.gif",
+    "level": 11,
+    "health": 60,
+    "attack": 22,
+    "armor": 11,
+    "magic_resistance": 6,
+    "experience": 63,
+    "gold": 16
+}

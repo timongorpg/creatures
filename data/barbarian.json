@@ -1,0 +1,11 @@
+{
+    "name": "Barbarian",
+    "image": "barbarianbw.gif",
+    "level": 18,
+    "health": 95,
+    "attack": 36,
+    "armor": 18,
+    "magic_resistance": 11,
+    "experience": 122,
+    "gold": 19
+}
