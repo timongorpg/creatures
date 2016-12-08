@@ -58,18 +58,16 @@ class FileCreaturesRepository {
 
     public function checkImages()
     {
-        $status = true;
-
         $imagesPath = realpath(__DIR__ . '/../img');
 
         $imageFileSystem = new FileSystem( new Local($imagesPath) );
 
         foreach($this->fetchAll() as $creature) {
             if (! $imageFileSystem->has($creature->image)) {
-                $status = false;
+                die($creature->name . ' not found.');
             }
         }
 
-        return $status;
+        echo 'Images ok';
     }
 }
