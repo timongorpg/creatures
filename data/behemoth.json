@@ -2,7 +2,7 @@
     "name": "Behemoth",
     "image": "behemoth.gif",
     "level": 23,
-    "health": 120,
+    "health": 360,
     "attack": 46,
     "armor": 23,
     "magic_resistance": 17,

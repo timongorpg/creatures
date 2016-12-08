@@ -2,7 +2,7 @@
     "name": "Angry Sheep",
     "image": "sheep.gif",
     "level": 5,
-    "health": 30,
+    "health": 60,
     "attack": 10,
     "armor": 5,
     "magic_resistance": 2,

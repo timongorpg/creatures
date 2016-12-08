@@ -2,7 +2,7 @@
     "name": "Orc",
     "image": "orc.gif",
     "level": 10,
-    "health": 55,
+    "health": 90,
     "attack": 20,
     "armor": 10,
     "magic_resistance": 5,

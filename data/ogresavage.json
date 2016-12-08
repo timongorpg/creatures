@@ -2,7 +2,7 @@
     "name": "Ogre Savage",
     "image": "ogresavage.gif",
     "level": 15,
-    "health": 80,
+    "health": 160,
     "attack": 30,
     "armor": 15,
     "magic_resistance": 8,

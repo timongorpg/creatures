@@ -2,7 +2,7 @@
     "name": "Demon Skeleton",
     "image": "demonskeleton.gif",
     "level": 19,
-    "health": 100,
+    "health": 250,
     "attack": 38,
     "armor": 19,
     "magic_resistance": 15,

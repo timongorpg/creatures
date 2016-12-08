@@ -2,7 +2,7 @@
     "name": "Toad",
     "image": "toad.gif",
     "level": 2,
-    "health": 15,
+    "health": 20,
     "attack": 4,
     "armor": 2,
     "magic_resistance": 0,

@@ -2,7 +2,7 @@
     "name": "Ogre",
     "image": "ogre.gif",
     "level": 14,
-    "health": 75,
+    "health": 130,
     "attack": 28,
     "armor": 14,
     "magic_resistance": 8,

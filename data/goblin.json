@@ -2,7 +2,7 @@
     "name": "Goblin",
     "image": "goblin.gif",
     "level": 9,
-    "health": 50,
+    "health": 80,
     "attack": 18,
     "armor": 9,
     "magic_resistance": 5,
