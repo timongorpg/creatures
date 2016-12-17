@@ -1,0 +1,11 @@
+{
+    "name": "Giant Spider",
+    "image": "giantspider.gif",
+    "level": 38,
+    "health": 660,
+    "attack": 78,
+    "armor": 39,
+    "magic_resistance": 31,
+    "experience": 597,
+    "gold": 31
+}

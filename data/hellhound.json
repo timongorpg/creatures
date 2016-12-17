@@ -1,0 +1,11 @@
+{
+    "name": "Hellhound",
+    "image": "kerberos.gif",
+    "level": 50,
+    "health": 900,
+    "attack": 100,
+    "armor": 51,
+    "magic_resistance": 43,
+    "experience": 1070,
+    "gold": 40
+}

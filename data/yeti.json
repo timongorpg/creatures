@@ -1,0 +1,11 @@
+{
+    "name": "Yeti",
+    "image": "freegoiz.gif",
+    "level": 33,
+    "health": 560,
+    "attack": 68,
+    "armor": 33,
+    "magic_resistance": 26,
+    "experience": 467,
+    "gold": 27
+}

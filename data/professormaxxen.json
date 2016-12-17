@@ -1,0 +1,11 @@
+{
+    "name": "Professor Maxxen",
+    "image": "professormaxxen.gif",
+    "level": 57,
+    "health": 1040,
+    "attack": 114,
+    "armor": 59,
+    "magic_resistance": 51,
+    "experience": 1506,
+    "gold": 47
+}

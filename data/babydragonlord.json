@@ -1,0 +1,11 @@
+{
+    "name": "Baby Dragon Lord",
+    "image": "dragonlordhatchling.gif",
+    "level": 44,
+    "health": 780,
+    "attack": 88,
+    "armor": 45,
+    "magic_resistance": 37,
+    "experience": 799,
+    "gold": 35
+}

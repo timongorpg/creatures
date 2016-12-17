@@ -1,0 +1,11 @@
+{
+    "name": "Aftershock",
+    "image": "aftershock.gif",
+    "level": 42,
+    "health": 740,
+    "attack": 86,
+    "armor": 43,
+    "magic_resistance": 35,
+    "experience": 725,
+    "gold": 33
+}

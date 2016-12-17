@@ -1,0 +1,11 @@
+{
+    "name": "Frost Dragon",
+    "image": "frostdragon.gif",
+    "level": 43,
+    "health": 760,
+    "attack": 87,
+    "armor": 44,
+    "magic_resistance": 36,
+    "experience": 761,
+    "gold": 34
+}

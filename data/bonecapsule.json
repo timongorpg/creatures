@@ -1,0 +1,11 @@
+{
+    "name": "Bone Capsule",
+    "image": "bonecapsule.gif",
+    "level": 55,
+    "health": 1000,
+    "attack": 110,
+    "armor": 57,
+    "magic_resistance": 49,
+    "experience": 1366,
+    "gold": 45
+}

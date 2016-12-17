@@ -1,0 +1,11 @@
+{
+    "name": "Anomaly",
+    "image": "anomaly.gif",
+    "level": 41,
+    "health": 720,
+    "attack": 84,
+    "armor": 42,
+    "magic_resistance": 34,
+    "experience": 691,
+    "gold": 33
+}

@@ -1,0 +1,11 @@
+{
+    "name": "White Pale",
+    "image": "whitepale.gif",
+    "level": 30,
+    "health": 500,
+    "attack": 62,
+    "armor": 30,
+    "magic_resistance": 23,
+    "experience": 386,
+    "gold": 25
+}

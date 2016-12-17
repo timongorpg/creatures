@@ -1,0 +1,11 @@
+{
+    "name": "Hellspawn",
+    "image": "flameborn.gif",
+    "level": 36,
+    "health": 620,
+    "attack": 74,
+    "armor": 36,
+    "magic_resistance": 29,
+    "experience": 541,
+    "gold": 29
+}

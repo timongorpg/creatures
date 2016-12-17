@@ -1,0 +1,11 @@
+{
+    "name": "Sailor Man",
+    "image": "rontheripper.gif",
+    "level": 25,
+    "health": 400,
+    "attack": 50,
+    "armor": 25,
+    "magic_resistance": 18,
+    "experience": 240,
+    "gold": 23
+}

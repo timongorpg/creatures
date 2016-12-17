@@ -1,0 +1,11 @@
+{
+    "name": "The Timongo Time Guardian",
+    "image": "theblazingtimeguadian.gif",
+    "level": 60,
+    "health": 1100,
+    "attack": 120,
+    "armor": 62,
+    "magic_resistance": 54,
+    "experience": 1745,
+    "gold": 50
+}

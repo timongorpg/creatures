@@ -1,0 +1,11 @@
+{
+    "name": "Lord Hydra",
+    "image": "thewelter.gif",
+    "level": 47,
+    "health": 840,
+    "attack": 94,
+    "armor": 48,
+    "magic_resistance": 40,
+    "experience": 925,
+    "gold": 37
+}
