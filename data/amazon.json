@@ -1,0 +1,11 @@
+{
+    "name": "Amazon",
+    "image": "amazon.gif",
+    "level": 26,
+    "health": 420,
+    "attack": 52,
+    "armor": 26,
+    "magic_resistance": 19,
+    "experience": 264,
+    "gold": 23
+}

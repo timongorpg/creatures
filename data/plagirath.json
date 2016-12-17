@@ -1,0 +1,11 @@
+{
+    "name": "Plagirath",
+    "image": "plagirath.gif",
+    "level": 56,
+    "health": 1020,
+    "attack": 112,
+    "armor": 58,
+    "magic_resistance": 50,
+    "experience": 1434,
+    "gold": 46
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Deepling King",
+    "image": "obujos.gif",
+    "level": 54,
+    "health": 980,
+    "attack": 108,
+    "armor": 56,
+    "magic_resistance": 48,
+    "experience": 1301,
+    "gold": 44
+}

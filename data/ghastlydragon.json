@@ -1,0 +1,11 @@
+{
+    "name": "Ghastly Dragon",
+    "image": "ghastlydragon.gif",
+    "level": 49,
+    "health": 880,
+    "attack": 98,
+    "armor": 50,
+    "magic_resistance": 42,
+    "experience": 1019,
+    "gold": 39
+}

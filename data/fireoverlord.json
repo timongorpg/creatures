@@ -1,0 +1,11 @@
+{
+    "name": "Fire Overlord",
+    "image": "fireoverlord.gif",
+    "level": 51,
+    "health": 920,
+    "attack": 102,
+    "armor": 52,
+    "magic_resistance": 44,
+    "experience": 1124,
+    "gold": 41
+}

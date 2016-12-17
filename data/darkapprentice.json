@@ -1,0 +1,11 @@
+{
+    "name": "Dark Apprentice",
+    "image": "darkapprentice.gif",
+    "level": 27,
+    "health": 440,
+    "attack": 54,
+    "armor": 27,
+    "magic_resistance": 20,
+    "experience": 290,
+    "gold": 24
+}

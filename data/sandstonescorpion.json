@@ -1,0 +1,11 @@
+{
+    "name": "Sandstone Scorpion",
+    "image": "sandstonescorpion.gif",
+    "level": 31,
+    "health": 520,
+    "attack": 64,
+    "armor": 31,
+    "magic_resistance": 24,
+    "experience": 424,
+    "gold": 26
+}

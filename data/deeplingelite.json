@@ -1,0 +1,11 @@
+{
+    "name": "Deepling Elite",
+    "image": "deeplingelite.gif",
+    "level": 35,
+    "health": 600,
+    "attack": 72,
+    "armor": 35,
+    "magic_resistance": 28,
+    "experience": 515,
+    "gold": 28
+}

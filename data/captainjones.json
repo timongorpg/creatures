@@ -1,0 +1,11 @@
+{
+    "name": "Captain Jones",
+    "image": "captainjones.gif",
+    "level": 29,
+    "health": 480,
+    "attack": 60,
+    "armor": 29,
+    "magic_resistance": 22,
+    "experience": 350,
+    "gold": 25
+}

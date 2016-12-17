@@ -1,0 +1,11 @@
+{
+    "name": "Wooden Elf",
+    "image": "mornenion.gif",
+    "level": 24,
+    "health": 380,
+    "attack": 48,
+    "armor": 24,
+    "magic_resistance": 18,
+    "experience": 218,
+    "gold": 22
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Zamulosh",
+    "image": "zamulosh.gif",
+    "level": 59,
+    "health": 1080,
+    "attack": 118,
+    "armor": 61,
+    "magic_resistance": 53,
+    "experience": 1661,
+    "gold": 49
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Hydra",
+    "image": "hydra.gif",
+    "level": 46,
+    "health": 820,
+    "attack": 92,
+    "armor": 47,
+    "magic_resistance": 39,
+    "experience": 881,
+    "gold": 36
+}

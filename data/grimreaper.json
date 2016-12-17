@@ -1,0 +1,11 @@
+{
+    "name": "Grim Reaper",
+    "image": "boogey.gif",
+    "level": 52,
+    "health": 940,
+    "attack": 104,
+    "armor": 54,
+    "magic_resistance": 46,
+    "experience": 1180,
+    "gold": 42
+}

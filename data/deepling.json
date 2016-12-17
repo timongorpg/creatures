@@ -1,0 +1,11 @@
+{
+    "name": "Deepling",
+    "image": "deeplingbrawler.gif",
+    "level": 34,
+    "health": 580,
+    "attack": 70,
+    "armor": 34,
+    "magic_resistance": 27,
+    "experience": 490,
+    "gold": 28
+}

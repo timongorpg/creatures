@@ -1,0 +1,11 @@
+{
+    "name": "Soul of Dragon King",
+    "image": "soulofdragonkingzyrtarch.gif",
+    "level": 58,
+    "health": 1060,
+    "attack": 116,
+    "armor": 60,
+    "magic_resistance": 52,
+    "experience": 1582,
+    "gold": 48
+}

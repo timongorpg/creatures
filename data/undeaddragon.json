@@ -1,0 +1,11 @@
+{
+    "name": "Undead Dragon",
+    "image": "undeadpetofchayenne.gif",
+    "level": 53,
+    "health": 960,
+    "attack": 106,
+    "armor": 55,
+    "magic_resistance": 47,
+    "experience": 1239,
+    "gold": 43
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Serpent Spawn",
+    "image": "serpentspawn.gif",
+    "level": 48,
+    "health": 860,
+    "attack": 96,
+    "armor": 49,
+    "magic_resistance": 41,
+    "experience": 971,
+    "gold": 38
+}

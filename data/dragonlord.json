@@ -1,0 +1,11 @@
+{
+    "name": "Dragon Lord",
+    "image": "dragonlord.gif",
+    "level": 45,
+    "health": 800,
+    "attack": 90,
+    "armor": 46,
+    "magic_resistance": 38,
+    "experience": 839,
+    "gold": 35
+}

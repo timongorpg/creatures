@@ -1,0 +1,11 @@
+{
+    "name": "Dragon",
+    "image": "dragon.gif",
+    "level": 40,
+    "health": 700,
+    "attack": 82,
+    "armor": 41,
+    "magic_resistance": 33,
+    "experience": 658,
+    "gold": 33
+}

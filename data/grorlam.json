@@ -1,0 +1,11 @@
+{
+    "name": "Grorlam",
+    "image": "grorlam.gif",
+    "level": 32,
+    "health": 540,
+    "attack": 66,
+    "armor": 32,
+    "magic_resistance": 25,
+    "experience": 445,
+    "gold": 26
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Lethal Lissy",
+    "image": "lethallissy.gif",
+    "level": 28,
+    "health": 460,
+    "attack": 58,
+    "armor": 28,
+    "magic_resistance": 21,
+    "experience": 319,
+    "gold": 25
+}

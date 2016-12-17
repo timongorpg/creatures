@@ -1,0 +1,11 @@
+{
+    "name": "Baby Dragon",
+    "image": "babydragon.gif",
+    "level": 39,
+    "health": 680,
+    "attack": 80,
+    "armor": 40,
+    "magic_resistance": 32,
+    "experience": 626,
+    "gold": 32
+}

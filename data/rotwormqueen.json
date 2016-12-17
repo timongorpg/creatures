@@ -1,0 +1,11 @@
+{
+    "name": "Rotworm Queen",
+    "image": "rotwormqueen.gif",
+    "level": 37,
+    "health": 640,
+    "attack": 76,
+    "armor": 38,
+    "magic_resistance": 30,
+    "experience": 568,
+    "gold": 30
+}
