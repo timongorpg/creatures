@@ -2,21 +2,20 @@
 
 namespace Timongo\Creatures;
 
-use League\Flysystem\File;
-use League\Flysystem\Filesystem;
 use League\Flysystem\Adapter\Local;
+use League\Flysystem\Filesystem;
 
-class FileCreaturesRepository {
-
+class FileCreaturesRepository
+{
     protected $path;
 
     protected $filesystem;
 
     public function __construct($path = null)
     {
-        $this->path = $path ?: realpath(__DIR__ . '/../data');
+        $this->path = $path ?: realpath(__DIR__.'/../data');
 
-        $this->filesystem = new Filesystem( new Local($this->path) );
+        $this->filesystem = new Filesystem(new Local($this->path));
     }
 
     public function read($file)
@@ -58,13 +57,13 @@ class FileCreaturesRepository {
 
     public function checkImages()
     {
-        $imagesPath = realpath(__DIR__ . '/../img');
+        $imagesPath = realpath(__DIR__.'/../img');
 
-        $imageFileSystem = new Filesystem( new Local($imagesPath) );
+        $imageFileSystem = new Filesystem(new Local($imagesPath));
 
-        foreach($this->fetchAll() as $creature) {
-            if (! $imageFileSystem->has($creature->image)) {
-                die($creature->name . ' not found.');
+        foreach ($this->fetchAll() as $creature) {
+            if (!$imageFileSystem->has($creature->image)) {
+                die($creature->name.' not found.');
             }
         }
 
